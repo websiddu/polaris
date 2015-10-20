@@ -27,6 +27,10 @@ gem 'slim', :require => 'slim'
 gem 'slim_assets'
 gem 'devise'
 
+
+#UI
+gem 'simple_form'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
