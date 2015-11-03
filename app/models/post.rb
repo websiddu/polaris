@@ -1,4 +1,4 @@
 class Post < ActiveRecord::Base
 
-  has_many :steps, inverse_of: :post
+  has_many :sections, inverse_of: :post
 end
